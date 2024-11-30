@@ -35,8 +35,8 @@ const data = reactive({
 
   myProjects: [{
     name: 'Home',
-    description: '个人简介、主页、引导页',
-    link: 'https://github.com/sun0225SUN/home',
+    description: '个人简介、主页、引导页00000000',
+    link: 'https://wwww.250052.xyz',
   }, {
     name: 'Blog',
     description: '个人博客，学习&随笔',
