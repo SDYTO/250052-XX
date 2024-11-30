@@ -20,8 +20,8 @@ const data = reactive({
     '当你在凝视着网页的时候<br/>网页也正在凝视着你',
   ],
   navLinks: [{
-    name: '博33333333 客',
-    link: 'https://blog.sunguoqi.com',
+    name: '博客',
+    link: 'wwww.baidu.com',
   }, {
     name: '影 集',
     link: 'https://camera.sunguoqi.com',
