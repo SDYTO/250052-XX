@@ -147,7 +147,7 @@ onMounted(() => {
             热爱计算机科学和 IT 互联网事业，希望开心快乐每天。
           </p>
           <p leading-10>
-            三千繁华，弹指刹那，百年过后，不过一捧黄沙。 一念花开，一念花落， 一念繁华一念灰，一念成悦，处处繁华处处锦。一念成执，寸寸相思寸寸灰|
+            三千繁华.弹指刹那.百年过后.不过一捧黄沙。一念花开，一念花落，一念繁华一念灰，一念成悦，处处繁华处处锦.一念成执，寸寸相思寸寸灰
           </p>
           <p leading-10>
             We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
