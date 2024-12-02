@@ -125,7 +125,7 @@ onMounted(() => {
           <div bg-green rounded-full h-3 w-3 />
         </div>
         <div text-4 text-white tracking-widest>
-          小孙同学祝您今天快乐
+          知行合一，方为真知。 ——王阳明之语，霸气侧漏，彰显实践之力。
         </div>
       </div>
     </section>
@@ -138,16 +138,16 @@ onMounted(() => {
       <div mx-10 mb-10 flex justify-between>
         <div class="text-white/80">
           <p leading-10>
-            嗨，你好，我是小孙同学。
+            嗨，你好，我是个小葡萄
           </p>
           <p leading-10>
-            热爱编程、摄影、读书、旅行。
+            热爱生活、摄影、读书、旅行。
           </p>
           <p leading-10>
-            热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
+            热爱计算机科学和 IT 互联网事业，希望开心快乐每天。
           </p>
           <p leading-10>
-            我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
+            圣人之道，吾性自足，不假外求，此言鼓舞人心，道出自我完善之可能。。
           </p>
           <p leading-10>
             We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
@@ -156,12 +156,12 @@ onMounted(() => {
         <img hidden rounded-full h-25 w-25 transition md:block hover:-translate-y--2 src="./assets/images/avatar.webp" alt="avatar">
       </div>
 
-      <!-- 我的技能 -->
+      <!-- 我的生活 -->
       <!-- <div text-bold mb-2 ml-10 text-8 text-white>
           My Skills
         </div> -->
 
-      <!-- 我的项目 -->
+      <!-- 我的爱好 -->
       <div text-bold mb-2 ml-10 text-8 text-white>
         Projects
       </div>
@@ -202,8 +202,8 @@ onMounted(() => {
         <i i-ant-design-environment-outlined ml-1 />
       </div>
       <div class="text-white/60" mt-2 f-c-c gap-4>
-        <div>皖 ICP 备 2021010058 号</div>
-        <div>© 2024 小孙同学</div>
+        <div>西红柿 ICP 备 2027010058 号</div>
+        <div>© 2034 葡萄同学</div>
       </div>
     </footer>
   </main>
