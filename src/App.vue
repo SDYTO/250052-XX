@@ -153,7 +153,7 @@ onMounted(() => {
             We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
           </p>
         </div>
-        <img hidden rounded-full h-25 w-25 transition md:block hover:-translate-y--2 src="./assets/images/avatar.webp" alt="avatar">
+        <img hidden rounded-full h-25 w-25 transition md:block hover:-translate-y--2 src="https://www.ruihan.cc/upload/logo.jpg" alt="avatar">
       </div>
 
       <!-- 我的生活 -->
