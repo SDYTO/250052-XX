@@ -21,10 +21,10 @@ const data = reactive({
   ],
   navLinks: [{
     name: '博客',
-    link: 'wwww.baidu.com',
+    link: 'https://blog.250052.xyz/',
   }, {
     name: '影 集',
-    link: 'https://camera.sunguoqi.com',
+    link: '27021502.xyz',
   }, {
     name: '运 动',
     link: 'https://bicycling.sunguoqi.com',
@@ -35,20 +35,20 @@ const data = reactive({
 
   myProjects: [{
     name: 'Home',
-    description: '个人简介、主页、引导页00000000',
-    link: 'https://wwww.250052.xyz',
+    description: '个人简介、主页、引导页',
+    link: 'https://www.250052.xyz',
   }, {
     name: 'Blog',
     description: '个人博客，学习&随笔',
-    link: 'https://github.com/sun0225SUN/blog',
+    link: 'https://blog.250052.xyz',
   }, {
     name: 'Brain',
     description: '知识库、第二大脑',
-    link: 'https://github.com/sun0225SUN/brain',
+    link: 'wwww.yuque.com/wangxinshuai',
   }, {
     name: 'Camera',
     description: '摄影相册',
-    link: 'https://github.com/sun0225SUN/camera',
+    link: 'nas.250052.xyz:5244',
   }, {
     name: 'Camera Tools',
     description: '摄影工具箱',
@@ -125,7 +125,7 @@ onMounted(() => {
           <div bg-green rounded-full h-3 w-3 />
         </div>
         <div text-4 text-white tracking-widest>
-          知行合一，方为真知。 ——王阳明之语，霸气侧漏，彰显实践之力。
+          保持热爱,奔赴山海,忠于自己,热爱生活。
         </div>
       </div>
     </section>
