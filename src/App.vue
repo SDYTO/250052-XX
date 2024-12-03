@@ -85,7 +85,15 @@ const data = reactive({
     icon: '<i i-ant-design-bilibili-outlined />',
     link: 'https://www.27021502.xyz/',
     label: 'Bilibili',
-      }, {
+  }, {
+    icon: '<i i-ant-design-bilibili-outlined />',
+    link: 'https://vercel.com/',
+    label: 'vercel',
+  }, {
+    icon: '<i i-ant-design-bilibili-outlined />',
+    link: 'https://vercel.com/',
+    label: 'vercel',
+  }, {
     icon: '<i i-ant-design-bilibili-outlined />',
     link: 'https://vercel.com/',
     label: 'vercel',
