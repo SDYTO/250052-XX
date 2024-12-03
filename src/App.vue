@@ -68,22 +68,7 @@ const data = reactive({
     description: '前端项目起手架模版',
     link: 'https://www.27021502.xyz/',
   }],
-    }, {
-    name: 'Starter2',
-    description: '前端项目起手架模版2',
-    link: 'https://www.27021502.xyz/',
-  }],
-                        }, {
-    name: 'Starter3',
-    description: '前端项目起手架模版3',
-    link: 'https://www.27021502.xyz/',
-  }],
-                        }, {
-    name: 'Starter4',
-    description: '前端项目起手架模版4',
-    link: 'https://www.27021502.xyz/',
-  }],
-
+  
   socialLinks: [{
     icon: '<i i-ant-design-github-outlined />',
     link: 'https://www.27021502.xyz/',
