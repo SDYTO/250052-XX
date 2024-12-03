@@ -4,12 +4,10 @@ import StarTrails from './components/StarTrails.vue'
 
 const data = reactive({
   titleList: [
-    '一只鸟站在树枝上从来不害怕树枝会折断，因为它相信的不是树枝，而是自己的翅膀',
-    '敬畏之心！',
-    '赞美之心！',
-    '时间从来不语,却回答了所有的问题！',
-    '没有一个冬天不可逾越，没有一个春天不会来临',
-    '世界那么大，一定有更好的人与事，正在等待旭日初升',
+    '一只鸟站在树枝上从来不害怕树枝会折断<br/>因为它相信的不是树枝，而是自己的翅膀',
+    '时间从来不语<br/>却回答了所有的问题！',
+    '没有一个冬天不可逾越<br/>没有一个春天不会来临',
+    '世界那么大，一定有更好的人与事<br/>正在等待旭日初升',
     '希望能成为有趣的人',
     '相信美好的事情即将发生',
     '平凡的日常正奇迹的发生着',
@@ -23,13 +21,13 @@ const data = reactive({
     name: '博客',
     link: 'https://blog.250052.xyz/',
   }, {
-    name: '影 集',
+    name: '热爱',
     link: '27021502.xyz',
   }, {
     name: '运 动',
     link: 'https://bicycling.sunguoqi.com',
   }, {
-    name: '留 言',
+    name: '生 活',
     link: 'https://blog.sunguoqi.com/comments',
   }],
 
@@ -52,40 +50,55 @@ const data = reactive({
   }, {
     name: 'Camera Tools',
     description: '摄影工具箱',
-    link: 'https://github.com/sun0225SUN/camera-tools',
+    link: 'https://www.27021502.xyz/',
   }, {
     name: 'Bicycling',
     description: '骑行主页',
-    link: 'https://github.com/sun0225SUN/bicycling',
+    link: 'https://www.27021502.xyz/',
   }, {
     name: 'Life Map',
     description: '人生地图、点亮足迹',
-    link: 'https://github.com/sun0225SUN/life-map',
+    link: 'https://www.27021502.xyz/',
   }, {
     name: 'Coder',
     description: '闪闪发光的程序们',
-    link: 'https://github.com/sun0225SUN/coder',
+    link: 'https://www.27021502.xyz/',
   }, {
     name: 'Starter',
     description: '前端项目起手架模版',
-    link: 'https://github.com/sun0225SUN/starter',
+    link: 'https://www.27021502.xyz/',
+  }],
+    }, {
+    name: 'Starter2',
+    description: '前端项目起手架模版2',
+    link: 'https://www.27021502.xyz/',
+  }],
+                        }, {
+    name: 'Starter3',
+    description: '前端项目起手架模版3',
+    link: 'https://www.27021502.xyz/',
+  }],
+                        }, {
+    name: 'Starter4',
+    description: '前端项目起手架模版4',
+    link: 'https://www.27021502.xyz/',
   }],
 
   socialLinks: [{
     icon: '<i i-ant-design-github-outlined />',
-    link: 'https://github.com/sun0225SUN',
+    link: 'https://www.27021502.xyz/',
     label: 'Github',
   }, {
     icon: '<i i-ant-design-x-outlined />',
-    link: 'https://twitter.com/sun0225SUN',
+    link: 'https://www.27021502.xyz/',
     label: 'Twitter',
   }, {
     icon: '<i i-ant-design-youtube-outlined />',
-    link: 'https://youtube.com/@sun0225SUN',
+    link: 'https://www.27021502.xyz/',
     label: 'YouTube',
   }, {
     icon: '<i i-ant-design-bilibili-outlined />',
-    link: 'https://space.bilibili.com/448488855/',
+    link: 'https://www.27021502.xyz/',
     label: 'Bilibili',
   }],
 })
