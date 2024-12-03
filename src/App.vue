@@ -44,7 +44,7 @@ const data = reactive({
   }, {
     name: 'Brain',
     description: '知识库、第二大脑',
-    link: 'wwww.yuque.com/wangxinshuai',
+    link: 'https://www.yuque.com/wangxinshuai',
   }, {
     name: 'Camera',
     description: '摄影相册',
