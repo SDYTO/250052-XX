@@ -97,6 +97,10 @@ const data = reactive({
     icon: '<i i-ant-design-bilibili-outlined />',
     link: 'https://vercel.com/',
     label: 'vercel',
+      }, {
+    icon: '<i i-ant-design-bilibili-outlined />',
+    link: 'https://vercel.com/',
+    label: 'vercel',
   }],
 })
 
