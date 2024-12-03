@@ -67,10 +67,6 @@ const data = reactive({
     name: 'Starter',
     description: '前端项目起手架模版',
     link: 'https://www.27021502.xyz/',
-     }, {
-    name: 'Starter',
-    description: '前端项目起手架模版2',
-    link: 'https://www.27021502.xyz/',
   }],
   
   socialLinks: [{
@@ -89,6 +85,10 @@ const data = reactive({
     icon: '<i i-ant-design-bilibili-outlined />',
     link: 'https://www.27021502.xyz/',
     label: 'Bilibili',
+      }, {
+    icon: '<i i-ant-design-bilibili-outlined />',
+    link: 'https://vercel.com/',
+    label: 'vercel',
   }],
 })
 
