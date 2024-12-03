@@ -67,6 +67,10 @@ const data = reactive({
     name: 'Starter',
     description: '前端项目起手架模版',
     link: 'https://www.27021502.xyz/',
+     }, {
+    name: 'Starter',
+    description: '前端项目起手架模版2',
+    link: 'https://www.27021502.xyz/',
   }],
   
   socialLinks: [{
